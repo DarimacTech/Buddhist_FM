@@ -1,0 +1,13 @@
+[
+  {
+    "number": "ALT 98.0",
+    "name": "The Buddhist Radio",
+    "streamURL": "http://uk14freenew.listen2myradio.com:20718",
+    "imageURL": "assets/images/buddhist_radio_logo.jpg",
+    "desc": "The Buddhist Radio",
+    "location": "Colombo, Sri Lanka",
+    "listener": "counting Listener",
+    "isPlay": false,
+    "longDesc": "The Buddhist Radio channel"
+  }
+]
